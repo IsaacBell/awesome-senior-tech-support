@@ -11,6 +11,9 @@
 - [Learning Resources & Programs](#learning-resources--programs)
 - [Voice Dictation & Accessibility](#voice-dictation--accessibility)
 - [Accessible Hardware](#accessible-hardware)
+- [Senior Discounts & Memberships](#senior-discounts--memberships)
+- [Caregiver Resources](#caregiver-resources)
+- [Aging in Place & Smart Home](#aging-in-place--smart-home)
 - [Market & Business Research](#market--business-research)
 - [Related Awesome Lists](#related-awesome-lists)
 
@@ -27,6 +30,9 @@
 - [Security for Seniors](https://securityforseniors.com) - Digital safety platform with free training, a security dashboard, breach checkups, data-broker removal, and family oversight tiers.
 - [Sahai](https://sahai.care) - AI agents that monitor a senior's email, finances, and calendar by phone, detecting scams before harm is done.
 - [MemoryLane](https://memorylane.co) - AI digital caregiver providing on-screen tech support, scam protection, and companionship, with free and paid tiers.
+- [AARP Fraud Watch Network](https://www.aarp.org/money/scams-fraud/) - AARP's scam alerts, fraud education, and a scam-tracking map.
+- [FTC — Scams Against Older Adults](https://consumer.ftc.gov/all-scams/scams-against-older-adults) - Federal Trade Commission consumer advice tailored to older adults.
+- [FTC — Identity Theft and Online Security](https://consumer.ftc.gov/identity-theft-and-online-security) - FTC guidance for preventing and recovering from identity theft.
 
 ## Bill & Account Management
 
@@ -54,6 +60,9 @@
 - [LeadingAge — Technical Support Programs](https://leadingage.org/resident-client-technology-guide/) - Guidance for agencies that serve older adults on building technical support programs.
 - [Senior Source — Technology Education](https://theseniorsource.org/senior-technology-education-bridging-generation-gap/) - Plain-language explainers on technology education for older learners.
 - [Senior Tech Connect](https://srtechconnect.com/) - Organization-facing programs for teaching older adults practical tech skills and building confidence after class ends.
+- [AARP — Technology for 50+](https://www.aarp.org/home-family/personal-technology/) - AARP's technology guides, tutorials, and product reviews for older adults.
+- [OATS — Older Adults Technology Services](https://oats.org/) - Nonprofit that runs Senior Planet and other digital literacy programs.
+- [GetSetUp](https://www.getsetup.io/) - Live online classes for older adults taught by peers.
 
 ## Voice Dictation & Accessibility
 
@@ -68,6 +77,25 @@
 - [Lively Jitterbug Flip3](https://shop.lively.com/products/jitterbug-flip3-flip-phone) - Newer Jitterbug flip phone with an easy-to-read display and Urgent Response support.
 - [GrandPad](https://www.grandpad.net/) - Senior-focused tablet with simplified calling, video chats, and curated content.
 - [RAZ Memory Cell Phone](https://www.razmobility.com/solutions/memory-cellphone/) - Phone designed for seniors with memory loss, with oversized icons and family controls.
+- [Jitterbug Smart5](https://shop.lively.com/products/jitterbug-smart5-smartphone-for-seniors) - Lively's current simplified smartphone with a large screen and 24/7 support.
+- [Doro](https://www.doro.com/en-us/) - Phones designed for seniors with large buttons, clear sound, and emergency features.
+- [Consumer Cellular](https://www.consumercellular.com/) - Carrier known for no-contract plans and user-friendly phones for older adults.
+- [Snapfon](https://snapfon.com/) - Big-button phones with hearing aid compatibility and emergency call features.
+
+## Senior Discounts & Memberships
+
+- [AARP Membership](https://www.aarp.org/membership/) - Membership with discounts, advocacy, and access to AARP resources.
+- [SilverSneakers](https://www.silversneakers.com/) - Fitness program included with many Medicare Advantage plans.
+
+## Caregiver Resources
+
+- [Care.com](https://www.care.com/) - Marketplace for finding caregivers, senior care, and home services.
+- [National Alliance for Caregiving](https://www.caregiving.org/) - Research and advocacy for family caregivers.
+- [Family Caregiver Alliance](https://www.caregiver.org/) - Programs, education, and services for family caregivers.
+
+## Aging in Place & Smart Home
+
+- [AARP Livable Communities](https://www.aarp.org/livable-communities/) - AARP's resources for homes and communities that support aging in place.
 
 ## Market & Business Research
 
@@ -77,7 +105,10 @@
 ## Related Awesome Lists
 
 - [Awesome Privacy](https://github.com/IsaacBell/awesome-privacy) - Tools for protecting personal data, relevant for the security side of senior tech support.
+- [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y#readme) - The original curated accessibility list.
 
 ## License
 
 [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+
+This list is released to the public domain under CC0 1.0; you may copy, modify, and distribute it without restriction.

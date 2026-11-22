@@ -82,6 +82,8 @@
 - [Consumer Cellular](https://www.consumercellular.com/) - Carrier known for no-contract plans and user-friendly phones for older adults.
 - [Snapfon](https://snapfon.com/) - Big-button phones with hearing aid compatibility and emergency call features.
 
+- [GranPhone](https://github.com/dvinerlove/GranPhone) - Free open-source Android launcher + dialer that turns a spare phone into a big-button senior phone; SOS, kiosk mode, offline, no ads.
+
 ## Senior Discounts & Memberships
 
 - [AARP Membership](https://www.aarp.org/membership/) - Membership with discounts, advocacy, and access to AARP resources.
